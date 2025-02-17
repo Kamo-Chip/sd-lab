@@ -1,0 +1,2 @@
+# Stuff I did
+Create a repository, make multiple commits, manage branches, and deploy an HTML file according to the specifications provided. To do this, you need to create and deploy a simple HTML page about yourself to GitHub pages. 
